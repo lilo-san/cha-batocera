@@ -1,0 +1,620 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="37380">
+		<path>./strider.7z</path>
+		<name>Strider</name>
+		<desc>Strider is a multi-directional scrolling platform beat-em-up in which the player takes control of 'Strider Hiryu', a ninja-style warrior who must defeat a legendary being known as 'Grandmaster Meio'. 
+
+Set in a dystopian future in the year 2048, Meio has been watching Earth from his own distant galaxy and has created a space station (known as 'The Third Moon') between Earth and its moon in order to rule over the Human race.</desc>
+		<image>./images/strider-image.png</image>
+		<marquee>./images/strider-marquee.png</marquee>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<family>Strider</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1</players>
+		<md5>3d1b9590f5b61b4bf499acb572392df5</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37374">
+		<path>./pnickj.7z</path>
+		<name>Pnickies</name>
+		<desc>A falling blocks game released only to arcades. Like-colored blocks merge together and more points are awarded for larger masses.</desc>
+		<image>./images/pnickj-image.png</image>
+		<marquee>./images/pnickj-marquee.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Puzzle-Game / Fall</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>5a0e37a458023e5ef96aff2310798e4a</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="204360">
+		<path>./gulunpa.7z</path>
+		<name>Gulun.Pa</name>
+		<desc>The Gulun.Pa!game was released on 1993 developed and published by Capcom. 
+Unreleased puzzle game on the Capcom CPS1 hardware.
+Gulun Pa! is a CPS1 prototype, it seems to have been cancelled fairly early in development tho, as while this is playable only the bare bones of the game exist, there are a handful of what appear to be unused assets that suggest there were to be other stages, but while the program ROM has an English title of Piyo Piyo no resources at all exist in the graphic data for an English version. No copyright is displayed so this is guessed to be a Capcom development.</desc>
+		<image>./images/gulunpa-image.png</image>
+		<marquee>./images/gulunpa-marquee.png</marquee>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Puzzle-Game</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>603b4b2b6e0756ed59d87d51c5a3ab90</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="57920">
+		<path>./msword.7z</path>
+		<name>Magic Sword: Heroic Fantasy</name>
+		<desc>Magic Sword: Heroic Fantasy is a side-scrolling fantasy arcade game released by Capcom in 1990. The player can use a sword, an axe, or magic, and can also rescue and recruit potential allies from different character classes, each with their own special abilities. Three years earlier, Capcom had released the similar Black Tiger in 1987.
+
+Magic Sword is set in a nameless world threatened by the dark lord Drokmar, who is in control of an evil crystal known as the "Black Orb" that would allow him to rule the world. To prevent this from happening, the Brave Hero must climb to the top of the 50-story tower that Drokmar resides in, known as the Dragon Keep. After Drokmar is defeated, the player has the option of two endings: destroy the Black Orb, or take control of it and become the new Dark Lord.</desc>
+		<image>./images/msword-image.png</image>
+		<marquee>./images/msword-marquee.png</marquee>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>7aba4c4c321add14915e669afd52a98b</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37357">
+		<path>./3wonders.7z</path>
+		<name>Three Wonders</name>
+		<desc>Three Wonders contains three games from which a player may choose:
+
+Midnight Wanderers: Quest for the Chariot - A platform game that sees the player control a hobbit named Lou and his traveling companion, Siva, to run, climb, and shoot at enemies.
+Chariot: Adventure through the Sky - A shoot 'em up game featuring the characters from Midnight Wanderers, but in a Gradius-esque game.
+Don't Pull - A puzzle game similar to games like the Eggerland series, Pengo and Capcom's own puzzle game Pirate Ship Higemaru. It involves the player controlling either a rabbit named Don (Player 1) or a squirrel called Pull (Player 2), pushing blocks to crush monsters.</desc>
+		<image>./images/3wonders-image.png</image>
+		<marquee>./images/3wonders-marquee.png</marquee>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>9f1a59b8971a8b1e44c5cf1fe2ac11f6</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="78892">
+		<path>./megaman.7z</path>
+		<name>Mega Man: The Power Battle</name>
+		<desc>Have you ever pictured a Rockman or Megaman game that allows to skip all the platform elements and just grapple against the bosses? That's pretty much the main idea in this game! Choose from Rockman/Megaman, Protoman or Bass and battle against classic bosses in the series. Features great 2-D graphics, solid control, and a nice use of strategy (since the right order of weapons will rid you of specific enemies in no time!).</desc>
+		<image>./images/megaman-image.png</image>
+		<marquee>./images/megaman-marquee.png</marquee>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight /  Co-op</genre>
+		<family>Mega Man</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>8b8825ec4ddaf6926872aec631c3f273</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="43837">
+		<path>./unsquad.7z</path>
+		<name>U.N. Squadron</name>
+		<desc>U.N. Squadron / Area 88 is a horizontally-scrolling shoot-em-up and is based on the Manga series of the same name. The game features characters from the original Manga and their mission is to battle their way through enemy-packed levels to stop a terrorist group known as 'Project 4'.</desc>
+		<image>./images/unsquad-image.png</image>
+		<marquee>./images/unsquad-marquee.png</marquee>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>U.N. Squadron</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>2aa3a7abe7f8fe731fbcd95b39d80fc0</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="42606">
+		<path>./qtono2j.7z</path>
+		<name>Quiz Tonosama no Yabou 2: Zenkoku-ban</name>
+		<desc>Quiz Tonosama no Yabou 2 - Zenkoku-ban is a feudal Japanese quiz game from Capcom.</desc>
+		<image>./images/qtono2j-image.png</image>
+		<marquee>./images/qtono2j-marquee.png</marquee>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Quiz / Japanese</genre>
+		<family>Quiz Tonosama no Yabou</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>e8d2ba8918d691b364a5e675888a2ec6</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37363">
+		<path>./forgottn.7z</path>
+		<name>Forgotten Worlds</name>
+		<desc>The planet used to be beautiful, with gorgeous cities and gleaming countrysides. Until the Aliens attacked! With fire, bombs, and napalm they devastated the world! They made the planet so abominable that it became an outcast in the universe - the Forgotten World. Until you, the Nameless One, appear. You're a Super Warrior of incredible power and energy. You make it your business to reclaim the panet for its rightful owners - the Human Beings!</desc>
+		<image>./images/forgottn-image.png</image>
+		<marquee>./images/forgottn-marquee.png</marquee>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>Forgotten Worlds</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>139f04d0f45764d1a4bfebfaa038e97d</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37359">
+		<path>./cawing.7z</path>
+		<name>Carrier Air Wing</name>
+		<desc>Carrier Air Wing / U.S. Navy is a horizontally-scrolling shoot-em-up for one or two players set in the 1990s, a decade of great change marked by growing friendships between old enemies and never before seen levels of co-operation between powerful nations of the world. However, in 1997, using new weapons designed in secrecy, the Middle Eastern country of 'Rabu' threatens to destroy this new and fragile peace. 
+
+Players chose to pilot any one of three different jet fighters and must battle their way through ten enemy-packed stages. Each fighter has a fuel bar which is full at the start of each stage but gradually decreases, additional fuel is lost each time the fighter takes damage from an enemy.</desc>
+		<image>./images/cawing-image.png</image>
+		<marquee>./images/cawing-marquee.png</marquee>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>U.N. Squadron</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>bfabaeb48aea3a1d160acc3434d80fa1</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37367">
+		<path>./mbombrd.7z</path>
+		<name>Muscle Bomber Duo : Ultimate Team Battle</name>
+		<desc>Professional wrestling experienced a sudden increase in popularity during the early 1980s, where many professional wrestling organizations were started all over the world. A severe rivalry existed among the organizations.
+
+In order to resolve this conflict, 8 organizations combined to form the Capcom Professional Wrestling Association (CPWA), led by Victor Ortega, the CPWA?s first champion.
+
+One day, Ortega suddenly vanished. He was considered to be the axis of the sport and his unexpected disappearance caused the CPWA to enter an age of confusion and disorder. The BPWA, a dark underground wrestling organization, chose to take advantage of this opportunity and began moving. With "Fighters of Muscle Bomber = Destiny" as the theme, the CPWA chief executives decided to hold a world tour called the ?Crash Carnival,? to decide the new king of the CPWA.
+
+The gong that determines the new ?Master of Muscle Bomber? is sounded?</desc>
+		<image>./images/mbombrd-image.png</image>
+		<marquee>./images/mbombrd-marquee.png</marquee>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Sports / Wrestling</genre>
+		<family>Slam Masters</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>4</players>
+		<md5>53fbab2f9d5772baaafa4d6d0d3c7589</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37382">
+		<path>./varth.7z</path>
+		<name>Varth: Operation Thunderstorm</name>
+		<desc>Varth: Operation Thunderstorm is an arcade game in the vertical scrolling shooter genre, published in 1992. The game did not see a console port following its initial release, but 14 years later Digital Eclipse Software would port the game onto the PlayStation 2, PSP and Xbox as part of the Capcom Classics Collection Vol. 2.</desc>
+		<image>./images/varth-image.png</image>
+		<marquee>./images/varth-marquee.png</marquee>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>49d3543a1abf2177368ae41e24833f61</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="42020">
+		<path>./knights.7z</path>
+		<name>Knights of the Round</name>
+		<desc>Knights of the Round is an arcade game released by Capcom in 1991. A side-scrolling beat 'em up based loosely on the legend of King Arthur and the Knights of the Round Table, the game features an role-playing video game-like level advancement system, with fighters getting new weapons and armour as they advance through the game, however the player can not choose how to upgrade his/her character - the level up system is static.</desc>
+		<image>./images/knights-image.png</image>
+		<marquee>./images/knights-marquee.png</marquee>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>3</players>
+		<md5>dada31f40f6e89cafe86fdba6b620b86</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37377">
+		<path>./sf2ce.7z</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./images/sf2ce-image.png</image>
+		<marquee>./images/sf2ce-marquee.png</marquee>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>73779eb03e6cc09fdf5b5e7d3e8422dd</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37358">
+		<path>./captcomm.7z</path>
+		<name>Captain Commando</name>
+		<desc>Captain Commando is set in a crime-ridden future in the year 2026, where a superhero named Captain Commando, assisted by his three faithful Commando Companions rise up to protect the Earth and all the Galaxy from a gang of super-powered criminals.</desc>
+		<image>./images/captcomm-image.png</image>
+		<marquee>./images/captcomm-marquee.png</marquee>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>4</players>
+		<md5>ccab58062e78589d85ab2c8e0ceb6408</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="44111">
+		<path>./wof.7z</path>
+		<name>Warriors of Fate</name>
+		<desc>Warriors of Fate is a side-scrolling beat 'em up produced by Capcom, first released as a coin-operated arcade game in 1992 and later ported to the Sega Saturn and Sony PlayStation. It is Capcom's third game based on the Tenchi wo Kurau manga, following Dynasty Wars and Destiny of an Emperor.</desc>
+		<image>./images/wof-image.png</image>
+		<marquee>./images/wof-marquee.png</marquee>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Dynasty Wars</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>3</players>
+		<md5>e64d7090cba32a3ba2c3506464353b96</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37362">
+		<path>./ffight.7z</path>
+		<name>Final Fight</name>
+		<desc>Final Fight can be played by up to two players simultaneously, with each player controlling a different character. Before the game begins, the player chooses between the three main characters, Guy, Cody, and Haggar, each with his own fighting style and attributes. Guy is the weakest but has faster attacks, Haggar is the strongest but also the slowest, and Cody has all-round attributes.
+
+Final Fight consists of six stages or "rounds", as well as two bonus rounds. Each round takes place in a different section of Metro City such as the Slums and the Subway, with most rounds featuring more than one level. At the end of each round the player will face a boss character unique to that round.</desc>
+		<image>./images/ffight-image.png</image>
+		<marquee>./images/ffight-marquee.png</marquee>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Final Fight</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>75510f1d8a8238698db3e04819db4022</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37378">
+		<path>./sf2hf.7z</path>
+		<name>Street Fighter II' : Hyper Fighting</name>
+		<desc>Street Fighter II': Hyper Fighting (Street Fighter II' Turbo: Hyper Fighting in Japan) is the second upgrade to the Street Fighter II series after Street Fighter II': Champion Edition. It is a simple modification of the game made by Capcom USA (James Goddard), in an attempt to counter the proliferation of the many unofficial hacks available at the time, and to incorporate into the official game some of the most popular improvements made by them, including attack speed and new paddles on certain hacks.nnThe speed of the game has been greatly increased (hence the Turbo on the console port of the game); and new special moves are available to certain characters, making combat much more strategic.</desc>
+		<image>./images/sf2hf-image.png</image>
+		<marquee>./images/sf2hf-marquee.png</marquee>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>3e15746da29343f4881d299e86ffc015</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37373">
+		<path>./pang3.7z</path>
+		<name>Pang! 3</name>
+		<desc>Pang! 3 is the second sequel to the superb 1989 original, Pang! 3 retains the same gameplay of its predecessors but adds vastly improved graphics and a choice of three difficulty levels; Beginner, Normal and Panic. On both the 'Normal' and 'Panic' skill levels, players can choose from 4 different playable characters; each possessing different strengths and weaknesses, such as a double harpoon or quick shots. On the beginner level, players can only use the Mexican character.
+
+Another notable difference is in the game's use of backdrops: instead of the world landmarks of the first two games, Pang! 3 features classical works of art in the form of paintings and sculptures.</desc>
+		<image>./images/pang3-image.png</image>
+		<marquee>./images/pang3-marquee.png</marquee>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Mitchell</developer>
+		<publisher>Capcom</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Pang</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>f9638b7546bb48ab478fa45639067295</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="120706">
+		<path>./pokonyan.7z</path>
+		<name>Pokonyan! Balloon</name>
+		<desc>Pokonyan! Balloon is a rare Capcom Game from Kids Amusement park, you are in a balloon, droping flower and catching other ballon.</desc>
+		<image>./images/pokonyan-image.png</image>
+		<marquee>./images/pokonyan-marquee.png</marquee>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1</players>
+		<md5>e381d11854160609c0c49ab4435afc33</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37379">
+		<path>./slammast.7z</path>
+		<name>Saturday Night Slam Masters</name>
+		<desc>A 1-on-1 fighting game in which players choose from 10 different wrestlers and take to the ring to try and defeat their larger-than-life opponents. Each wrestler has an assortment of moves, including his own special 'super slam'. The object of the game is to win and defend the championship by pinning or putting a submission hold on your opponent.</desc>
+		<image>./images/slammast-image.png</image>
+		<marquee>./images/slammast-marquee.png</marquee>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Sports / Wrestling</genre>
+		<family>Slam Masters</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>4</players>
+		<md5>6c65ac6e731c4b26e9ad7681155a559f</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="39873">
+		<path>./1941.7z</path>
+		<name>1941: Counter Attack</name>
+		<desc>The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). One is only able to perform three loops per level and a bonus is awarded at the end of the level for unused loops. Player 1 uses a P-38 Lightning and Player 2 uses a Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front.
+
+The game consists of six levels.
+
+It was the first shoot 'em up to add +1 to the score when a continue is used.[1]</desc>
+		<image>./images/1941-image.png</image>
+		<marquee>./images/1941-marquee.png</marquee>
+		<releasedate>19900201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>19XX</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>809dce3b4bc255b75d39ae835ebe2763</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37360">
+		<path>./dino.7z</path>
+		<name>Cadillacs and Dinosaurs</name>
+		<desc>Cadillacs and Dinosaurs: The Arcade Game, known in Japan as Cadillacs: Dinosaurs of a New Century is a 1993 arcade game released by Capcom. It is a side-scrolling beat 'em up based on the comic book series Xenozoic Tales. The game was produced as a tie-in to the Cadillacs and Dinosaurs animated series which was aired during the same year the game was released.</desc>
+		<image>./images/dino-image.png</image>
+		<marquee>./images/dino-marquee.png</marquee>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>3</players>
+		<playcount>1</playcount>
+		<lastplayed>20210919T164056</lastplayed>
+		<md5>602cb4b363bc6713a3b3a8aa49f6ebf5</md5>
+		<gametime>22</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="40781">
+		<path>./cworld2j.7z</path>
+		<name>Adventure Quiz Capcom World 2</name>
+		<desc>Capcom World 2 - Adventure Quiz is a Japanese quiz game.</desc>
+		<image>./images/cworld2j-image.png</image>
+		<marquee>./images/cworld2j-marquee.png</marquee>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Quiz / Japanese</genre>
+		<family>Capcom World</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>10e68beea99cb64a851627f1a14dbc8e</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="41385">
+		<path>./ganbare.7z</path>
+		<name>Ganbare! Marine Kun</name>
+		<desc>Ganbare Marin-kun is the final and probably rarest game released on CPS1. I don't know anyone who had even heard of it until it showed up for sale. It's a medal game but along with Tobikose Jumpman and Alien, the best of them I have seen. The music rips off several things including the Indiana Jones theme song.</desc>
+		<image>./images/ganbare-image.png</image>
+		<marquee>./images/ganbare-marquee.png</marquee>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>1</players>
+		<md5>98c804e78f0a4497bd42c93d6ff6caef</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="42982">
+		<path>./sf2.7z</path>
+		<name>Street Fighter II : The World Warrior</name>
+		<desc>GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
+		<image>./images/sf2-image.png</image>
+		<marquee>./images/sf2-marquee.png</marquee>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>d607ca3cb790eeae6d28022c56e55766</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37383">
+		<path>./willow.7z</path>
+		<name>Willow</name>
+		<desc>Willow is a sideways scrolling platform shoot-em-up game loosely based upon the movie of the same name. Players take on the role of one of two characters: Willow Ufgood or Madmartigan. The hero's mission is to rescue the baby Elora Danan from the evil Queen Bavmorda and bring her back safely. If the quest fails, the Queen will plunge the world into darkness and chaos.
+
+The game consists of 6 levels, each representing a scene from the movie. Defeated enemies drop gold coins that can be collected by the player. In addition, each level is littered with locked treasure chests that can be shot open and the treasure within collected. The gold can be used to purchase a number of weapons and character power-ups from a nearby shop (represented on screen by a wise old man). All power-ups will stay with the player until all lives are lost and the game is over.</desc>
+		<image>./images/willow-image.png</image>
+		<marquee>./images/willow-marquee.png</marquee>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Platform / Shooter Scrolling</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>d1e0285b67c1ad4424aa57db2d548f90</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="41441">
+		<path>./ghouls.7z</path>
+		<name>Ghouls'n Ghosts</name>
+		<desc>Three years have passed since the events of "Ghosts'n Goblins" and the knight Arthur finds himself once again facing the horrible creatures of Demon World. This time the demons have invaded the kingdom and upon his return, Arthur is the only survivor, his beloved Genever having been killed by Lucifer. Arthur embarks once again on a quest to defeat the demonic invaders and save Genever's soul.</desc>
+		<image>./images/ghouls-image.png</image>
+		<marquee>./images/ghouls-marquee.png</marquee>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<family>Ghosts'n Goblins</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>77a645587881dfc21878df0107daca13</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="41078">
+		<path>./dynwar.7z</path>
+		<name>Dynasty Wars</name>
+		<desc>This game is a side-scrolling beat-em-up based on Japanese manga books of the same name and is a re-enactment of the historical battles between the Kingdom of Shu and the Yellow Turban rebels. Up to two players assume the roles of one of the four Chinese generals riding on horseback whose goal is to wipe out the 'Huang Ching', the organization responsible for the unrest of the Han Dynasty, and to eventually defeat the tyrant, Dong Zhuo.</desc>
+		<image>./images/dynwar-image.png</image>
+		<marquee>./images/dynwar-marquee.png</marquee>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Dynasty Wars</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>6c2b1f52b5ef3ef44db226e3a8b0567f</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37375">
+		<path>./punisher.7z</path>
+		<name>The Punisher</name>
+		<desc>A Capcom arcade beat-em-up game similar to games like Double Dragon featuring the Marvel character The Punisher. Nick Fury is also a playable character in this game.</desc>
+		<image>./images/punisher-image.png</image>
+		<marquee>./images/punisher-marquee.png</marquee>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>035cfb43b4f888eeaa0521bb487419be</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37371">
+		<path>./mtwins.7z</path>
+		<name>Mega Twins</name>
+		<desc>The game features two twins who are attempting to re-take control of their land, Alurea, after a monster unexpectedly attacks, destroying everything in its path. The people of Alurea have lived in peace for a thousand years and have forgotten how to fight, yet the land's only survivors, the twin sons of the king, must take up the challenge and return their kingdom to its former glory. The two twins, aged around 15 at the time the game takes place, venture forth in search of a legendary stone known as "Dragon Blue Eyes", which is rumored to be able to put everything back to rights.</desc>
+		<image>./images/mtwins-image.png</image>
+		<marquee>./images/mtwins-marquee.png</marquee>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>de7d624545fc7c03a85182d58fcc0d7c</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="78903">
+		<path>./mercs.7z</path>
+		<name>Mercs</name>
+		<desc>The US faces a grave crisis! The former president has been kidnapped by a group of revolutionaries while on a trip on Central Africa meant to promote world peace. Take control of three highly skilled anti-terrorist soldiers and venture through enemy lines to save the former president &amp; annihilate the rebel army in the process. Features solid graphics &amp; sound, plenty of weapons &amp; vehicles to use and hulking bosses to defeat.</desc>
+		<image>./images/mercs-image.png</image>
+		<marquee>./images/mercs-marquee.png</marquee>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>Commando</family>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>3</players>
+		<md5>da2b0c0982ea4a5f516a8e5a39b93274</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37372">
+		<path>./nemo.7z</path>
+		<name>Nemo</name>
+		<desc>One night, as Nemo sleeps, he is visited in a dream by the King of Slumberland, who invites Nemo to come and play with the King's daughter, the Princess. Nemo finds himself unable to find the Princess however, so he and 'Flip', a strange companion who also turns up in the dream, decide to explore Slumberland and find the king.
+
+Nemo is a colourful and abstract platform shoot-em-up set in the dream world of Slumberland, a surreal world in which childrens' toys are running amok and must be destroyed. Nemo is armed with a magical staff that emits a burst of magic to destroy the many enemies, some of which require multiple hits. A number of power-ups also appear at regular intervals to aid Nemo in his quest through seven tough stages.</desc>
+		<image>./images/nemo-image.png</image>
+		<marquee>./images/nemo-marquee.png</marquee>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>acc673ebd4d1bd5e18970e37cf185b74</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="42583">
+		<path>./qad.7z</path>
+		<name>Quiz &amp; Dragons: Capcom Quiz Game</name>
+		<desc>The game plays similar to a board game, where the player is given a predetermined dice roll that moves the player up to six spaces on the board; however, if the player is so given the choice, he can move to a space of his choosing if there is a fork in the road. After landing on a space, the player is given a series of questions (the amount of questions needed to be answered increase as the game progresses) in order to proceed back to the board for another dice roll. The player is given a time limit to answer the question, with points given that vary based on how fast the player answered the question correctly. If the player is successful in answering a question, one of the orbs above the enemy's portrait will light up, indicating a correct answer. If the player answers a question incorrectly, he will lose a life point. if the player loses all life points, the player must continue within the time limit or else the game is over.</desc>
+		<image>./images/qad-image.png</image>
+		<marquee>./images/qad-marquee.png</marquee>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Quiz / English</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>2</players>
+		<md5>f1d1caf7613e3e0b14c23045dbe21ba3</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37366">
+		<path>./kod.7z</path>
+		<name>The King of Dragons</name>
+		<desc>The King of Dragons is a 1991 side-scrolling hack and slash video game by Capcom that allows players to choose from five characters (Elf, Wizard, Fighter, Cleric, and Dwarf) in order to travel through the kingdom of Malus and defeat the monsters that have taken over, as well as their leader, the red dragon Gildiss. Like Capcom's Knights of the Round, it features a level advancement system, allowing character attributes to be upgraded as players progress through the game. The setting is very similar to that of Dungeons &amp; Dragons and other medieval fantasy worlds, with familiar monsters such as Orcs, Gnolls, Harpies, Wyverns, Cyclopes, and Minotaurs.
+
+The game was ported to the Super NES and released in 1994. An emulated version of the game was released as part of Capcom Classics Collection Vol. 2 and Capcom Classics Collection: Reloaded.</desc>
+		<image>./images/kod-image.png</image>
+		<marquee>./images/kod-marquee.png</marquee>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / 2.5D</genre>
+		<arcadesystemname>cps1</arcadesystemname>
+		<players>3</players>
+		<md5>6b6844e9c80f737eeadd3c3597116c68</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+</gameList>

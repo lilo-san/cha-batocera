@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="37421">
+		<path>./jojoba.7z</path>
+		<name>Jojo's Bizarre Adventure</name>
+		<desc>Based on the Japanese manga/animé of the same name, JoJo's Bizarre Adventure is a 2D fighting game from Capcom. Take on the role of one of 18 characters and compete with your friends or take on the role of Jotaro "JoJo" Kujo and his friends in the SUper Story Mode as they race to defeat the evil vampire, Dio Brando, and save the world!</desc>
+		<image>./images/jojoba-image.png</image>
+		<marquee>./images/jojoba-marquee.png</marquee>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>JoJo's Bizarre Adventure</family>
+		<arcadesystemname>cps3</arcadesystemname>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37426">
+		<path>./redearth.7z</path>
+		<name>Red Earth</name>
+		<desc>Red Earth take place in the year 1999 of an alternate Earth, follow the adventures of four heroes as they take on an army of mythical monsters unleashed by Scion to bring about the destruction of the world. Take your pick from Leo the Lion King, Mai-Ling the Martial artist, Tessa the Witch, or Kenji the Ninja as they fight their way across the globe in order to defeat Scion the iron giant.</desc>
+		<image>./images/redearth-image.png</image>
+		<marquee>./images/redearth-marquee.png</marquee>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight /  Co-op</genre>
+		<arcadesystemname>cps3</arcadesystemname>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37424">
+		<path>./sfiii3.7z</path>
+		<name>Street Fighter III 3rd Strike : Fight for the Future</name>
+		<desc>New characters Remy, Makoto, Q, and Twelve join the returning Street Fighter veteran Chun-Li and the existing "Street Fighter III - 2nd Impact: Giant Attack" cast in this third and final installment of Street Fighter III.</desc>
+		<image>./images/sfiii3-image.png</image>
+		<marquee>./images/sfiii3-marquee.png</marquee>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter</family>
+		<arcadesystemname>cps3</arcadesystemname>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+</gameList>

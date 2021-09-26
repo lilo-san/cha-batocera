@@ -1,0 +1,1 @@
+cp -rfv ./cha-emmc/BATOCERA/* /media/lilo/BATOCERA/
