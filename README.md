@@ -17,6 +17,8 @@ To archive this games are supposed to be compressed using 7zip, repeated games h
 
 Additionally the batocera image has been customised removing other cores and unused media to make additional space.
 
+The image includes the theme, artwork and screenshots.
+
 All games should run at 60 FPS without input lag or sound issues with and without the scanlines shader at 720p.
 
 # How to use the release
