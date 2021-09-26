@@ -1,4 +1,12 @@
-# Capcom Home Arcade Batocera setup
+# Batocera by Lilo for Capcom Home Arcade
+
+![Capcom Home Arcade](screenshots/screenshot-0.png)
+![Capcom Home Arcade](screenshots/screenshot-1.png)
+![Capcom Home Arcade](screenshots/screenshot-2.png)
+![Capcom Home Arcade](screenshots/screenshot-3.png)
+![Capcom Home Arcade](screenshots/screenshot-4.png)
+![Capcom Home Arcade](screenshots/screenshot-5.png)
+![Capcom Home Arcade](screenshots/screenshot-6.png)
 
 # Goal of this repository
 This repository exists to help build a Batocera image for Capcom Home Arcade (CHA from now on).
@@ -12,11 +20,15 @@ Additionally the batocera image has been customised removing other cores and unu
 All games should run at 60 FPS without input lag or sound issues with and without the scanlines filter at 720p.
 
 # How to use the release
-Burn the image to emmc and substitute the dummy 0kb rom files on the batocera roms directory under SHARE for your own using fel mode.
-
-You can also delete the games you don't have to get shorter lists.
+1. Burn the image to emmc.
+2. Using FEL mode under linux since the SHARE partition is ext4.
+- Substitute the dummy 0kb neogeo.zip bios file on the SHARE/bios directory.
+- Substitute the dummy 0kb rom.7z files on the SHARE/roms directory.
+3. Delete the games you don't have to get shorter lists.
 
 The current release uses FBNeo 1.0.0.2 romset.
+
+NOTE: During the first start Batocera does the setup. Is recomended to restart before playing games.
 
 # How to use the sources
 The scripts should be self explanatory for someone that can:
