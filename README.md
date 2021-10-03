@@ -11,13 +11,15 @@
 # Goal of this repository
 This repository exists to help build a Batocera image for Capcom Home Arcade (CHA from now on).
 
-This image should fit on EMMC and have all (with a few exceptions) CPS1, CPS2, CPS3 and NEO GEO games.
+This image can fit on EMMC and fit all CPS1, CPS2, CPS3 and NEO GEO games.
 
-To archieve this games are compressed using 7z, repeated games have been removed and probably 3-4 unremarkable games too, to fit on EMMC.
+To archive this games are supposed to be compressed using 7zip, repeated games have been removed and probably 3-4 unremarkable games too, to fit on EMMC.
 
 Additionally the batocera image has been customised removing other cores and unused media to make additional space.
 
-All games should run at 60 FPS without input lag or sound issues with and without the scanlines filter at 720p.
+The image includes the theme, artwork and screenshots.
+
+All games should run at 60 FPS without input lag or sound issues with and without the scanlines shader at 720p.
 
 # How to use the release
 1. Burn the image to emmc.
